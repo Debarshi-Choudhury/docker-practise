@@ -1,0 +1,1 @@
+console.log("Hello World!!! from inside of a nodejs app, running inside a docker container")
